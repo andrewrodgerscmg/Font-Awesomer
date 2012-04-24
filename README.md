@@ -1,16 +1,11 @@
 #Font Awesomer
 Modified Font Awesome so it works alongside Twitter Bootstrap, instead of replacing it
 
-#Based on Font Awesome
-##the iconic font designed for use with Twitter Bootstrap
+##Based on <a href="http://fortawesome.github.com/Font-Awesome/" title="Font Awesome">Font Awesome</a>
 
 The full suite of pictographic icons, examples, and documentation can be found at:
 http://fortawesome.github.com/Font-Awesome/
 
-##Contact
-- Email: dave@davegandy.com
-- Twitter: http://twitter.com/fortaweso_me
-- Work: http://lemonwi.se co-founder
 
 ##License
 The Font Awesome webfont, CSS, and LESS files are licensed under CC BY 3.0:
