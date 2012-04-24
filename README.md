@@ -1,5 +1,5 @@
 #Font Awesomer
-## Modified Font Awesome so it works alongside Twitter Bootstrap, instead of replacing it
+Modified Font Awesome so it works alongside Twitter Bootstrap, instead of replacing it
 
 #Based on Font Awesome
 ##the iconic font designed for use with Twitter Bootstrap
