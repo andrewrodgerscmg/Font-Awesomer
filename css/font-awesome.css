@@ -62,6 +62,7 @@ li[class^="font-icon"], li[class*=" font-icon"] {
     font-style: normal;
     display: inline-block;
     text-decoration: inherit;
+    vertical-align: middle;
 }
 a [class^="font-icon"], a [class*=" font-icon"] {
     display: inline-block;
