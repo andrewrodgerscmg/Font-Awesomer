@@ -60,9 +60,10 @@ li[class^="font-icon"], li[class*=" font-icon"] {
     font-family: FontAwesome;
     font-weight: normal;
     font-style: normal;
-    display: inline-block;
-    text-decoration: inherit;
-    vertical-align: middle;
+    /* !This unifies vertical alignment across browsers. */
+    display: inline;
+    /* !Who wants underlines beneath icons? No one. */
+    text-decoration: none;
 }
 a [class^="font-icon"], a [class*=" font-icon"] {
     display: inline-block;
